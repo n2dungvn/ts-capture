@@ -1,0 +1,28 @@
+# TS Capture — privacy, licenses and tool sources
+
+Publisher / Nhà phát hành: **Nguyễn Ngọc Dũng**  
+Contact / Liên hệ: **n2dungvn@gmail.com**
+
+## Privacy / Quyền riêng tư
+
+- [Tiếng Việt](privacy-vi.html)
+- [English](privacy-en.html)
+
+## Third-party software / Thành phần bên thứ ba
+
+- [Giấy phép và nguồn — Tiếng Việt](licenses-vi.html)
+- [Licenses and sources — English](licenses-en.html)
+- [Full license texts](third-party-licenses.txt)
+- [SHA-256 source manifest](source-manifest.json)
+- [Build/source directions](SOURCE-README.txt)
+
+The `tools-3.0.3` release contains all numbered tool-source parts. Download all
+parts and extract them into the same folder. They contain the original FFmpeg
+and dependency sources plus pinned build scripts/patches for the binaries
+bundled with TS Capture 3.0.3. No sign-in or payment is required to access the
+public source downloads. Each component retains its applicable license.
+
+The application code is maintained separately. This repository distributes
+privacy documentation, third-party notices and upstream tool-source archives.
+The source release is not a claim of codec patent clearance or trademark
+endorsement. See the individual notices and source directions for scope.

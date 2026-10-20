@@ -1,0 +1,14 @@
+TS Capture 3.0.3 — publisher contact
+
+Nguyễn Ngọc Dũng
+n2dungvn@gmail.com
+
+The app includes independently licensed third-party software. The license
+texts and source-download directions are available in the Privacy and licenses
+section of Settings and in this folder. Any application terms preserve the
+rights granted by the applicable third-party software licenses.
+
+Windows, Microsoft Store and other third-party names identify their respective
+products and owners. Publication does not imply their endorsement.
+
+This package does not distribute Windows font files or the .NET Desktop Runtime.
