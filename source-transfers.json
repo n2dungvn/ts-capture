@@ -1,0 +1,223 @@
+{
+  "format": "concatenate-segments-in-listed-order",
+  "archives": [
+    {
+      "file": "TS-Capture-3.0.3-tool-sources-part01.zip",
+      "size": 1336219306,
+      "sha256": "92bd925debbe61c086ec1e1b2879fe8405be1fddc71db141535787858334a3f7",
+      "segments": [
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.001",
+          "size": 67108864,
+          "sha256": "2b578a523efe3202f08f320028184b2a3ce924c6b05391b2adc11722225101af",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.001"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.002",
+          "size": 67108864,
+          "sha256": "e919d272ad64d40e2c80882f686e6137c13c1a6e0a6136ec58a4e7989f449080",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.002"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.003",
+          "size": 67108864,
+          "sha256": "e17e83a245531a403f5edddb604b4710319b931be724b245d9af74a5c5c88c70",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.003"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.004",
+          "size": 67108864,
+          "sha256": "41c4facebba218b3bc000a8999207075bd7b859d59c6bccbc4c7e233b468801d",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.004"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.005",
+          "size": 67108864,
+          "sha256": "fa1b83cf819e65b7dc20ab0edbf7916b2d226a591e29a032c3da618a1c530a7e",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.005"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.006",
+          "size": 67108864,
+          "sha256": "ec0cacdc3327b184ef5b5ed85412e2c37baa05f93f5039cdb9f9c26aafe76665",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.006"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.007",
+          "size": 67108864,
+          "sha256": "1d71f1f3d0afea9b71c8557d91758efcbc73986811e943b10934762d6e9415f7",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.007"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.008",
+          "size": 67108864,
+          "sha256": "60e812c0ba9ec2ec1bfdfbe1fcb4d0768cf03bdcff66743711f50039099a66a3",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.008"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.009",
+          "size": 67108864,
+          "sha256": "b88e3a11cd4dd0fbf31fca22aa16068346b1b8105bcc6a00649af43bcb7ebadc",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.009"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.010",
+          "size": 67108864,
+          "sha256": "71058615c8f68d57abf889b063695592ad57e0e6b5dcaa757df0adea17bef102",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.010"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.011",
+          "size": 67108864,
+          "sha256": "bc876bebb731fa594b3e66cd5d5b3b0a9220147d270a9d9b4f184877c1227e6c",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.011"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.012",
+          "size": 67108864,
+          "sha256": "2a7b8d6944547022ff275cc3ce62a3bee3a09a00ff778ee81371fe77503c2ea8",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.012"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.013",
+          "size": 67108864,
+          "sha256": "d90cc5d1d229c13f7d75ed35b3384eabc5b098ff19dcf7d2b5a1f80e2ed6ab57",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.013"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.014",
+          "size": 67108864,
+          "sha256": "8d2b6e95154c32bff7473554a3b9cc90e572d014b0ba9a9be224ce227371c9ae",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.014"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.015",
+          "size": 67108864,
+          "sha256": "40d5b5ce01bbca832d3d89cf5769f48a98742ef9fc67a3c2c10de990ff096692",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.015"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.016",
+          "size": 67108864,
+          "sha256": "b1d588d21a4f7a424a4f0cc0e0988ccb7e090f8454cf874f90ba9160f310f393",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.016"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.017",
+          "size": 67108864,
+          "sha256": "5a9ee51024647b464e85c972f3e89c6acaa3e1b894847728a626fdd3872d3b0f",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.017"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.018",
+          "size": 67108864,
+          "sha256": "494696c00e3cd6948ad15819c90db2a4e71f84ac67525d984310d73a6ab3898b",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.018"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.019",
+          "size": 67108864,
+          "sha256": "c3d572be2e08c9722f724c9eb180dea1705fbfe43b9737f498b108604ac47e43",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.019"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part01.zip.020",
+          "size": 61150890,
+          "sha256": "7481444b28f7bf0ac549832d31384ee47cbaf1e42d82dcfdd21de3db065d9d83",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part01.zip.020"
+        }
+      ]
+    },
+    {
+      "file": "TS-Capture-3.0.3-tool-sources-part02.zip",
+      "size": 897072441,
+      "sha256": "32bf5d8100f22b3567924873a6200867a4548772fe2e3782ab13578524e8c56e",
+      "segments": [
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.001",
+          "size": 67108864,
+          "sha256": "1a4018e64e0ff1a495e9acbc3eb5cbbfa1669b84ff76acea122f5e1b3ae401e8",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.001"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.002",
+          "size": 67108864,
+          "sha256": "dfcd175f56ad01fdc620dcac8ad9b0be3858dd5d1fc4ae28f2226e22ba46f44c",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.002"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.003",
+          "size": 67108864,
+          "sha256": "107e095e22f4f6cf1a73e66540b0d7b4d69e8baa87eaf38aa998c6736ad43e98",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.003"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.004",
+          "size": 67108864,
+          "sha256": "41c13719d37fb32de1fe1c6b956ab9be862bb24a978bff811a295b78f17a6fcb",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.004"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.005",
+          "size": 67108864,
+          "sha256": "6b0a9e02e13df37932b5f00f59654edcbdc7034fd6e7e825530f262b6306b13f",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.005"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.006",
+          "size": 67108864,
+          "sha256": "579cea00a0418a0bfee904666b535327eac3f05783f8eb261493edaa780e840f",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.006"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.007",
+          "size": 67108864,
+          "sha256": "262ca25d22043470626362703fc2f218cebf3b35ed2b96a8c82dbe30f776e50e",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.007"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.008",
+          "size": 67108864,
+          "sha256": "8f972b38a9b34bb2a6773f51fc26a28f2f6bf5bf4f79df2c30657de544b1aa00",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.008"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.009",
+          "size": 67108864,
+          "sha256": "e0630ee4e6fcfe56c6f40fa1ff6ee329116a9965c1393fa8e5d08289e67d9012",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.009"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.010",
+          "size": 67108864,
+          "sha256": "0ab4cad6a80c4ea38ceb1770c98a1bca637f0e48744947d86b76c7e27ab41139",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.010"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.011",
+          "size": 67108864,
+          "sha256": "726eeca3c66ae5ea073481d8363003af5c35a5a7ddb57c7d9370e9ee60199371",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.011"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.012",
+          "size": 67108864,
+          "sha256": "a04e9116ee3d65da4c6bde7aa845a5c57ef8d9bfa7bbd34dee647f496e0133ac",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.012"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.013",
+          "size": 67108864,
+          "sha256": "09c11558f884cb34c1784da027dda67c6808121f90731a879a6941fccfd09cbd",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.013"
+        },
+        {
+          "file": "TS-Capture-3.0.3-tool-sources-part02.zip.014",
+          "size": 24657209,
+          "sha256": "6fa9cbda5cbd7e52e0890184cfc76c90fe24955dd090f88e045d6e02cfc861b2",
+          "url": "https://github.com/n2dungvn/ts-capture/releases/download/tools-3.0.3/TS-Capture-3.0.3-tool-sources-part02.zip.014"
+        }
+      ]
+    }
+  ]
+}

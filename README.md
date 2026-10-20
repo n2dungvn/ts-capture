@@ -16,8 +16,11 @@ Contact / Liên hệ: **n2dungvn@gmail.com**
 - [SHA-256 source manifest](source-manifest.json)
 - [Build/source directions](SOURCE-README.txt)
 
-The `tools-3.0.3` release contains all numbered tool-source parts. Download all
-parts and extract them into the same folder. They contain the original FFmpeg
+The `tools-3.0.3` release contains numbered segments of two tool-source ZIPs.
+Download the segments and concatenate them in the order specified in
+`source-transfers.json` to restore the original ZIPs. Optional PowerShell and
+Python helpers on the release page download, verify and join the segments.
+Extract both restored ZIPs into the same folder. They contain the original FFmpeg
 and dependency sources plus pinned build scripts/patches for the binaries
 bundled with TS Capture 3.0.3. No sign-in or payment is required to access the
 public source downloads. Each component retains its applicable license.

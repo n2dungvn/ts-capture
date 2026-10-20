@@ -1,29 +1,32 @@
-FFmpeg corresponding source inputs for TS Capture 3.0.3
+FFmpeg tool sources for TS Capture 3.0.3
 
-FFmpeg revision: 46d899d7a02bc63237472cc4897258d5ddf274ac
-BtbN recipe revision: 63ac3265b0789ea16c7b1f8351cd2ad195a28722
-Upstream Actions run: https://github.com/BtbN/FFmpeg-Builds/actions/runs/39250769506
-Dependency source-cache artifact: 12185707025 (download-cache)
-Binary ZIP SHA256: d1ff977a8026bf9841d5b2f4960825551fe306cdcf0f4d0de1e76f216459ae3a
+Public release: https://github.com/n2dungvn/ts-capture/releases/tag/tools-3.0.3
 
-Download all source parts, plus source-manifest.json and SHA256SUMS.txt.
-Extract the parts into the same directory. Extract the FFmpeg and recipe ZIPs.
-The inputs/*.tar.xz archives preserve the original upstream dependency sources
-and submodules; licenses and notices are retained inside them. The recipe ZIP
-includes patches, configure/build scripts and the reconstructed win64/gpl/8.1
-Dockerfile. Its FF_CONFIGURE flags were compared with the shipped binary.
+The original two source ZIPs are distributed as 34 sequential binary segments.
+This permits resumable parallel transfer without changing source ZIP contents.
+The format is ordinary concatenation, not a proprietary archive format.
 
-Build reference: the pinned BtbN README, build.sh, generate.sh, scripts.d,
-images, variants and addins/8.1.sh. The upstream build uses Linux, Docker and
-the MinGW cross toolchain. Place the hashed dependency archives under the
-recipe's .cache/downloads directory. Pin FFmpeg to the revision above instead
-of fetching the moving release branch. The generated Dockerfile records the
-source archive hashes. Build tooling, upstream container availability and
-external toolchains are separate prerequisites. A full rebuild was not run
-as part of this preparation pass; bit-for-bit reproducibility is not claimed.
+Download source-transfers.json to see every segment URL, byte size and SHA-256.
+For each archive, download its listed segments, concatenate their bytes in the
+listed order to obtain the ZIP filename, verify the ZIP hash, then extract it.
+Extract both restored ZIPs into the same directory.
 
-No changes were made to the FFmpeg or dependency source archives.
-Generated recipe metadata: Dockerfile for win64/gpl/8.1.
-Contact for source distribution issues: n2dungvn@gmail.com
-GPLv3+ rights for FFmpeg and applicable rights for each dependency are retained.
-The TS Capture app source is a separate work and is not part of these assets.
+Optional helpers supplied on this release:
+- Get-ToolSources.ps1: Windows PowerShell 5.1+ or PowerShell 7.
+- get_tool_sources.py: Python 3 standard library, on Windows/macOS/Linux.
+Review a helper before running it. It downloads only the public source segments,
+verifies segment hashes, reconstructs both original ZIPs and checks their hashes.
+No GitHub account or payment is required for these public source downloads.
+
+The ZIP contents include FFmpeg source at revision
+46d899d7a02bc63237472cc4897258d5ddf274ac and BtbN build recipes at revision
+63ac3265b0789ea16c7b1f8351cd2ad195a28722, plus unchanged upstream dependency
+source-cache archives. Their licenses and notices are retained. SOURCE-README.txt
+inside the restored ZIPs contains the build reference and tool prerequisites.
+
+The complete source archive SHA-256 values are in SHA256SUMS.txt and the full
+source inventory is in source-manifest.json. The generated recipe configuration
+matches the distributed binaries. A full rebuild was not performed and
+bit-for-bit reproducibility is not claimed.
+
+Source-distribution contact: n2dungvn@gmail.com
